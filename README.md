@@ -8,3 +8,4 @@ Import the boolean value in the `importBoolean.js` file.
 
 <b>Use Common JS module syntax</b>.
 # import-and-export-Boolean
+# import-and-export-boolean
